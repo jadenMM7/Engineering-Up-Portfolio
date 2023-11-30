@@ -1,7 +1,7 @@
 Laser car project. This is a RC car that runs by the code that was uploaded onto it. The final addition to the car was a laser that also works from a code that was custom made by me. 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Jaden| East Highschool | computer Engineering | Junior  
+| Jaden| East Highschool | Computer Engineering | Junior  
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
