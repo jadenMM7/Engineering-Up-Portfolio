@@ -7,7 +7,7 @@ Laser car project. This is a RC car that runs by the code that was uploaded onto
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
+My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've soldered wires together and I customized the code a lot in order to make the laser work. I've loved working on this project and I can't wait to do more activities like this in the future. 
 
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
