@@ -3,7 +3,7 @@ Laser car project. This is a RC car that runs by the code that was uploaded onto
 |:--:|:--:|:--:|:--:|
 | Jaden| East Highschool | Computer Engineering | Junior  
 
-![Fianl Project](\Users\Engineer\Downloads\IMG_4537.jpg)
+![Fianl Project](C:\Users\Engineer\Downloads\IMG_4537.jpg)
 
 # Final Milestone
 
