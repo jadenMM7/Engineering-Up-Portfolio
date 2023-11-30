@@ -14,7 +14,6 @@ My final milestone, I've come a long way from where I started just a couple of m
 # Final Schematic Sir Kickington 
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
 
-# Second Milestone 
 
 # First Milestone
   [![First Milestone Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1701379245/video_to_markdown/images/youtube--KBdnlJ9oyuk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KBdnlJ9oyuk "First Milestone Video ")
